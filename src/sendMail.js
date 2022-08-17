@@ -18,7 +18,7 @@ exports.handler = async function (event) {
 
             Subject: { Data: "Test Email" },
         },
-        Source: "no-reply@viniciustrainotti.com",
+        Source: "no-reply@teste.com",
     };
 
     let response = {}
