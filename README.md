@@ -25,6 +25,6 @@ and json body contains list emails to sending it
 
 ```json
 {
-    "ToAddresses": ["vtrainotti@live.com"]
+    "ToAddresses": ["teste@teste.com"]
 }
 ```
